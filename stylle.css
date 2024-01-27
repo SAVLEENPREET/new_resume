@@ -1,0 +1,12 @@
+body {
+    background-color:grey;
+    }
+
+body.page2{
+    background-color:bisque;
+    font-family: arial;
+}
+
+body.page1{
+    background-color:grey;
+}
